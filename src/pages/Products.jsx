@@ -14,7 +14,7 @@ export default function Products() {
               <h4>{product.name}</h4>
               <p>R$ {product.price}</p>
               <Link to={`/products/${product.id}`}>
-                <button>Ver</button>
+                <button>View</button>
               </Link>
             </li>
           ))}
