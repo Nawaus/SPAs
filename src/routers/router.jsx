@@ -4,7 +4,7 @@ import Cart from "../pages/Cart";
 import Home from "../pages/Home";
 import Products from "../pages/Products";
 import RootLayout from "../pages/RootLayout";
-import Product from "../pages/product";
+import Product from "../pages/Product";
 
 const router = createBrowserRouter([
   {
